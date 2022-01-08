@@ -1,4 +1,6 @@
-# Word Master
+# Wordsmith
+
+Forked from Word Master, a Wordle-inspired game that can be replayed.
 
 🔗 https://octokatherine.github.io/word-master/
 
